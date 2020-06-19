@@ -1,0 +1,30 @@
+[submodule "desafios/01-conceitos-nodejs"]
+	path = desafios/01-conceitos-nodejs
+	url = git@github.com:natanaelsirqueira/gostack-nivel01-desafio01-conceitos-nodejs.git
+[submodule "desafios/02-conceitos-reactjs"]
+	path = desafios/02-conceitos-reactjs
+	url = git@github.com:natanaelsirqueira/gostack-nivel01-desafio02-conceitos-reactjs.git
+[submodule "desafios/03-conceitos-react-native"]
+	path = desafios/03-conceitos-react-native
+	url = git@github.com:natanaelsirqueira/gostack-nivel01-desafio03-conceitos-react-native.git
+[submodule "desafios/04-fundamentos-nodejs"]
+	path = desafios/04-fundamentos-nodejs
+	url = git@github.com:natanaelsirqueira/gostack-nivel02-desafio01-fundamentos-nodejs.git
+[submodule "desafios/05-database-upload"]
+	path = desafios/05-database-upload
+	url = git@github.com:natanaelsirqueira/gostack-nivel02-desafio02-database-upload.git
+[submodule "desafios/06-fundamentos-reactjs"]
+	path = desafios/06-fundamentos-reactjs
+	url = git@github.com:natanaelsirqueira/gostack-nivel03-desafio01-fundamentos-reactjs.git
+[submodule "desafios/07-fundamentos-react-native"]
+	path = desafios/07-fundamentos-react-native
+	url = git@github.com:natanaelsirqueira/gostack-nivel03-desafio02-fundamentos-react-native.git
+[submodule "desafios/08-database-relations"]
+	path = desafios/08-database-relations
+	url = git@github.com:natanaelsirqueira/gostack-nivel04-desafio01-database-relations.git
+[submodule "desafios/09-gorestaurant-web"]
+	path = desafios/09-gorestaurant-web
+	url = git@github.com:natanaelsirqueira/gostack-nivel05-desafio01-gorestaurant-web.git
+[submodule "desafios/10-gorestaurant-mobile"]
+	path = desafios/10-gorestaurant-mobile
+	url = git@github.com:natanaelsirqueira/gostack-nivel05-desafio02-gorestaurant-mobile.git
